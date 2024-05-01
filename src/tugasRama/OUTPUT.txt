@@ -1,1 +1,22 @@
-
+OUTPUT dari code pada InheritMain.java
+---------------------------
+Masukan Nama: (di input nama)
+Masukan Alamat: (di input alamat)
+Masukan NIM: (di input NIM)
+----------------------------
+HASIL DARI INPUT DIATAS CONTOH
+Nama: Rama
+Alamat: Trajutrisno
+NIM: A11.2022.14685
+-----------------------------
+Masukan Biaya SPP: (input biaya)
+Masukan Biaya SKS: (input biaya)
+Masukan Biaya Modul: (input biaya)
+------------------------------
+HASIL INPUT BERUPA "TOTAL PEMBAYARAN"
+CONTOH
+Masukan Biaya SPP: 2500000
+Masukan Biaya SKS: 250000
+Masukan Biaya Modul: 30000
+==============================
+TOTAL PEMBAYARAN: 2780000.0
